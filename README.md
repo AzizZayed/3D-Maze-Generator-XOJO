@@ -1,6 +1,6 @@
 # Maze-Generator-XOJO
 
-The algorithm used is called the Recursive Backtracker. I take the maze and render it in 3D with OpenGL and created a maze game out of it with different 3D models for different players. I used a software called XOJO. It uses the language REALbasic derived from the BASIC object-oriented programming language. This is the language and IDE I used in my High School programming classes. 
+The algorithm used is called the Recursive Backtracker. I take the maze and render it in 3D with OpenGL and created a maze game out of it with different 3D models for different players. 3D models are made with blender. I used a software called XOJO. It uses the language REALbasic derived from the BASIC object-oriented programming language. This is the language and IDE I used in my High School programming classes. 
 
 BTW some names are in French, most in English. I went to a French High School. 
 
